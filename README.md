@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Indranil_Dey
 - 👀 I’m interested in Learning new Technology
 - 🌱 I’m currently learning Java, Python, Android, AI
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me indranil.work20@gmail.com
 
 <!---
